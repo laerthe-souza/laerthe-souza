@@ -19,14 +19,14 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=laerthe-souza&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=laerthe-souza&show_icons=true&count_private=true&theme=dark" width="400" height="200"></a>
 </p>
 
 <p align='center'>
   📫 How to reach me: <a href='mailto:laerte_souza.developer@outlook.com'>laerte_souza.developer@outlook.com</a>
 </p>
 <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/laerthe-souza/laerthe-souza"></a> hipsters and nerds have come here o/
+  <a href="#"><img src="https://badges.pufler.dev/visits/laerthe-souza/laerthe-souza"></a>
 </p>
 
 <details>
