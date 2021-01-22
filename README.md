@@ -8,7 +8,9 @@
   A JavaScript Developer, specifically with ReactJS, React Native and NodeJS from Irecê-BA, Brazil.
 </p>
 
-- 🌱 I’m currently learning ReactJS, React Native and NodeJS.
+<p align='center'>
+  - 🌱 I’m currently learning ReactJS, React Native and NodeJS.
+</p>
 
 <p align='center'> 
   <a href="https://www.linkedin.com/in/laerthe-souza/">
