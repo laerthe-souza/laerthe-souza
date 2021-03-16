@@ -9,7 +9,7 @@
 </p>
 
 <p align='center'>
-  - 🌱 I’m currently learning ReactJS, React Native and NodeJS.
+  - 🌱 I’m currently learning React, Next.js, React Native and Node.js.
 </p>
 
 <p align='center'> 
