@@ -5,7 +5,7 @@
 </h1>
 
 <p align='center'>
-  A JavaScript Developer, specifically with ReactJS, React Native and NodeJS from Irecê-BA, Brazil.
+  A JavaScript Developer, specifically with React, React Native and Node.js from Irecê-BA, Brazil.
 </p>
 
 <p align='center'>
