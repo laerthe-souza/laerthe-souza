@@ -52,9 +52,8 @@
 
 ### 🌐 Let's Build The Future Together!
 
-📩 **Email:** [laerte_souza.developer@outlook.com](mailto:laerte_souza.developer@outlook.com)  
-🌍 **LinkedIn:** [Laerthe Souza](https://www.linkedin.com/in/laerthe-souza/)  
-💻 **GitHub:** [github.com/laerthe-souza](https://github.com/laerthe-souza)  
+📩 **Email:** [laerte_souza.developer@outlook.com](mailto:laerte_souza.developer@outlook.com)
+🌍 **LinkedIn:** [Laerthe Souza](https://www.linkedin.com/in/laerthe-souza/)
 
 ---
 
