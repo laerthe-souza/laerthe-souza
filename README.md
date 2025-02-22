@@ -54,7 +54,7 @@
 
 🟣 **Languages & Frameworks:** TypeScript | Node.js | NestJS | React | Next.js <br>
 💾 **Databases:** PostgreSQL | MongoDB | Redis <br>
-☁️ **DevOps & Infra:** Docker | Kubernetes | Terraform | CI/CD | AWS/GCP <br>
+☁️ **DevOps & Infra:** Docker | Kubernetes | Terraform | CI/CD | AWS/GCP | OpenTelemetry | Distributed Tracing <br>
 💎 **Best Practices:** Clean Code | SOLID | DDD | Automated Testing | Code Reviews <br>
 
 ---
