@@ -35,6 +35,7 @@
   <img src='https://img.shields.io/badge/GitLab%20Pipelines-E24329?style=flat&logo=gitlab&logoColor=white'/>
   <img src='https://img.shields.io/badge/DevOps-007ACC?style=flat&logo=devops&logoColor=white'/>
   <img src='https://img.shields.io/badge/CI/CD-003B57?style=flat&logo=git&logoColor=white'/>
+  <img src='https://img.shields.io/badge/OpenTelemetry-7A57D1?style=flat&logo=opentelemetry&logoColor=white'/>
 </div>
 
 ---
