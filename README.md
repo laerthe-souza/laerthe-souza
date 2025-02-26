@@ -43,8 +43,8 @@
 ### 🎨 Who Am I?
 
 🧠 **Creative problem-solver** passionate about **building scalable, resilient architectures** that run like clockwork.<br>
-💻 **Full-stack enthusiast** with a deep love for **Back-end development, Microservices, Messaging Systems, and AI integrations**.<br>
-🌍 From **Sorocaba/SP, Brazil**, coding dreams into reality with **React, React Native, and Node.js**.<br>
+💻 **Full-stack enthusiast** with a deep love for **Back-end development, Microservices, Messaging Systems and AI integrations**.<br>
+🌍 From **Sorocaba/SP, Brazil**, coding dreams into reality with **React and Node.js**.<br>
 
 🕹️ **Fun fact:** If software engineering were a video game, I'd be speedrunning it! 🎮
 
@@ -55,7 +55,7 @@
 🟣 **Languages & Frameworks:** TypeScript | Node.js | NestJS | React | Next.js <br>
 💾 **Databases:** PostgreSQL | MongoDB | Redis <br>
 ☁️ **DevOps & Infra:** Docker | Kubernetes | Terraform | CI/CD | AWS/GCP | OpenTelemetry | Distributed Tracing <br>
-💎 **Best Practices:** Clean Code | SOLID | DDD | Automated Testing | Code Reviews <br>
+💎 **Best Practices:** Clean Architecture | Clean Code | SOLID | DDD | Automated Testing | Code Reviews <br>
 
 ---
 
